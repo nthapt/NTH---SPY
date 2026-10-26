@@ -2,7 +2,7 @@
 # 🔒 Projeto Para fins educativo
 
 ## 📷 Imagens:
-![Uploading Captura de Tela 2026-10-26 às 20.21.06.png…]()
+<img width="731" height="548" alt="Captura de Tela 2026-10-26 às 20 21 06" src="https://github.com/user-attachments/assets/99389af2-6b7f-4466-bc1e-5fec9b1ef42c" />
 
 
 # 🛡️ Análise Educacional: Análise de Vetores Trojan & Spyware
